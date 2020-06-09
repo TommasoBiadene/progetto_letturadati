@@ -44,6 +44,8 @@ long int  i=0 ,totale1=0,totale2=0;
         //printf("%ld",);
 
         fclose(f);
+
+        //ciao
     }
     
 }
