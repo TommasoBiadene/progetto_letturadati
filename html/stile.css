@@ -1,0 +1,13 @@
+.block
+{
+    border: 1,5px solid black;
+    background-color: yellow;
+    display: inline-block;
+    width: 200px;
+    height: 70px;
+    text-align: center;
+   
+    position: relative;
+    left: 270px;
+    top: 180px;
+};
