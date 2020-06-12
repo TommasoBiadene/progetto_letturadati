@@ -13,7 +13,6 @@
                 echo($data);
             
             }
-               
           fclose($file);
         ?>
     </body>
